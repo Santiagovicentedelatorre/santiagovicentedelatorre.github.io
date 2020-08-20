@@ -12,16 +12,7 @@ Aqui usted pordra saber como y por que es necesario tener un control Sobre los a
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -30,7 +21,10 @@ Mucha toneladas de frutas se pierden al año debido al mal control de calidad qu
 
 ### Les presentamos PNI
 
-Un programa que sirve para poder ayudar a ver si se encuentra bien el alimento que esten comprando.
+Un programa que sirve para poder ayudar a ver si se encuentra bien el alimento que esten comprando. Aqui les mostramos un ejemplo.
+
+### Cualquier duda puedes consultar a nuetro chatbot
+Nuestra pagina cuenta con un chatbot que les podra resolver cualquier duda sobre la calidad de alimentos.
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
