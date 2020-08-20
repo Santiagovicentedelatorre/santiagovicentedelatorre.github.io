@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la pagina para ver la calidad de alimentos
 
-You can use the [editor on GitHub](https://github.com/Santiagovicentedelatorre/santiagovicentedelatorre.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui usted pordra saber como y por que es necesario tener un control Sobre los alimentos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
@@ -28,24 +25,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### ¿Sabias que?
+Mucha toneladas de frutas se pierden al año debido al mal control de calidad que se tinene entre otros factores.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Santiagovicentedelatorre/santiagovicentedelatorre.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Les presentamos PNI
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Un programa que sirve para poder ayudar a ver si se encuentra bien el alimento que esten comprando.
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  intent="WELCOME"
-  chat-title="Nividia"
-  agent-id="3b919bf0-8261-45ac-9486-d7a642ceece7"
-  language-code="en"
+  chat-title="proyecto"
+  agent-id="e553ca8b-6d83-4d53-aaa9-5a3b4f411741"
+  language-code="es"
 ></df-messenger>
-
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger intent="WELCOME" chat-title="Nividia" agent-id="3b919bf0-8261-45ac-9486-d7a642ceece7" language-code="en"
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
