@@ -3,19 +3,6 @@
 Aqui usted pordra saber como y por que es necesario tener un control Sobre los alimentos
 
 
-
-
-```markdown
-
-
-# Header 1
-## Header 2
-### Header 3
-
--
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### ¿Sabias que?
 Mucha toneladas de frutas se pierden al año debido al mal control de calidad que se tinene entre otros factores.
 
